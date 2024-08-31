@@ -1,4 +1,5 @@
 BeatSound - Web Music Player
+
 A responsive web application designed to emulate a modern music streaming service.
 
 •	Technologies Used: HTML, CSS, JavaScript
