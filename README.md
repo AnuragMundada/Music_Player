@@ -1,4 +1,4 @@
-BeatSound - Web Music Player
+# BeatSound - Web Music Player
 
 A responsive web application designed to emulate a modern music streaming service.
 
